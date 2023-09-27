@@ -51,7 +51,7 @@
 					</div>
 				</div>
 				<div class="form-group">
-					<label for="last_name">Address</label>
+					<label for="last_name">ENDERECO</label>
 					<textarea name="address" class="form-control" id="last_name"
 						name="last_name" required></textarea>
 				</div>
